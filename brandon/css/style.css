@@ -1,0 +1,28 @@
+body{
+    h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: center;
+    margin-top: auto;
+    font-size: 2em;
+}
+
+p{
+    color: gray;
+    line-height: 1.5;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+    background-color: white;
+    padding: 20px;
+}
+
+
