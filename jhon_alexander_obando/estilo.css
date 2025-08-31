@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e9e9e9;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+a {
+    color: rgb(33, 207, 175);           /* cambia el color de todos los enlaces */
+    text-decoration: none;   /* quita el subrayado */
+    font-weight: bold;       /* opcional: los pone en negrita */
+    margin: o 15px;          /*separa los enlaces entre si */
+    padding: 5px 10px;       /*da un poquito de espacio internho*/
+}
+
+a:hover {
+    color: orange;           /* color al pasar el mouse */
+    text-decoration: underline; /* se subrayan al pasar */
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+
+form {
+    margin: 20px;
+}
+
+input, textarea, button {
+    margin: 5px 0;
+    padding:5px;
+}
